@@ -7,6 +7,7 @@ module.exports = {
         primary: "#22262A",
         ijoenom: "#F2F8FC",
         ijotuek: "#E7F5F8",
+        abang: "#CF2929",
       },
       spacing: {
         "5persen": "5%",
@@ -14,6 +15,7 @@ module.exports = {
         "15persen": "15%",
         "18persen": "18%",
         "20persen": "20%",
+        "24persen": "24%",
         "25persen": "25%",
         "30persen": "30%",
         "32persen": "32%",
